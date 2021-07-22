@@ -1,0 +1,11 @@
+- 总览
+    - [什么是 ExoticGarden?](/What-is-ExoticGarden)
+    - [如何安装 ExoticGarden](/Installing-ExoticGarden)
+    - [入门](/Getting-Started)
+    - [帮我们扩充 Wiki!](/Expanding-the-Wiki)
+- 分类
+    - [植物与水果](/Plants-and-Fruits)
+    - [配料与工具](/Misc)
+    - [食物](/Food)
+    - [饮料](/Drinks)
+    - [魔法植物](/Magical-Plants)
