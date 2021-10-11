@@ -2,6 +2,7 @@
     - [什么是 ExoticGarden?](/What-is-ExoticGarden)
     - [如何安装 ExoticGarden](/Installing-ExoticGarden)
     - [入门](/Getting-Started)
+    - [常见问题](/FAQ)
     - [帮我们扩充 Wiki!](/Expanding-the-Wiki)
 - 分类
     - [植物与水果](/Plants-and-Fruits)
