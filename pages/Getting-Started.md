@@ -34,7 +34,7 @@
 
 你还可以制作各种[魔法植物](/Magical-Plants)，它们会产出[魔法精华](/Magical-Essence)。当你收获多个魔法精华时，你就可以合成出各种资源。
 
-## 7. 玩得开心 :id=6-enjoy-the-plugin
+## 6. 玩得开心 :id=6-enjoy-the-plugin
 
 现在，我们已经告诉你玩 ExoticGarden 必须知道的事情。
 玩得开心，享受你的冒险之旅吧！
