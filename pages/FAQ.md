@@ -8,6 +8,6 @@
 
 ## 如何使用魔法精华? :id=how-to-use-magical-essence
 
-你可以在**增强型工作台**中将8个相同类型的魔法精华合成，得到对应的产物。
+你可以在[增强型工作台](https://slimefun.guizhanss.wiki/#/Enhanced-Crafting-Table)中将8个相同类型的魔法精华合成，得到对应的产物。
 
 摆放方式为8个精华围成一圈，中间留空。

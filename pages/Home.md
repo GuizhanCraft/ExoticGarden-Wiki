@@ -9,9 +9,9 @@
 ## 总览 :id=overview
 
 - [什么是异域花园?](/What-is-ExoticGarden)
-- [如何安装异域花园](/Installing-ExoticGarden)
+- [如何安装异域花园](/Install-ExoticGarden)
 - [入门](/Getting-Started)
-- [帮我们扩充 Wiki!](/Expanding-the-Wiki)
+- [常见问题](/FAQ)
 
 ## 分类 :id=categories
 
