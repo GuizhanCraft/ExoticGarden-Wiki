@@ -16,7 +16,7 @@
 
 另外，你也可以通过魔法植物来获得各种资源。
 
-## 教程 :id=overview
+## 教程 :id=tutorials
 
 - [下载与安装](/Install-ExoticGarden)
 - [入门](/Getting-Started)
@@ -24,7 +24,7 @@
 ## 分类 :id=categories
 
 - [植物与水果](/Plants-and-Fruits)
-- [配料与工具](/Items)
+- [配料与工具](/Misc)
 - [食物](/Food)
 - [饮料](/Drinks)
 - [魔法植物](/Magical-Plants)
