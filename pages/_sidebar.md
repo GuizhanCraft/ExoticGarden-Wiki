@@ -1,8 +1,7 @@
-- 总览
-    - [什么是 ExoticGarden?](/What-is-ExoticGarden)
-    - [如何安装 ExoticGarden](/Install-ExoticGarden)
+- [首页](/Home)
+- 教程
+    - [下载与安装](/Install-ExoticGarden)
     - [入门](/Getting-Started)
-    - [常见问题](/FAQ)
 - 分类
     - [植物与水果](/Plants-and-Fruits)
     - [配料与工具](/Misc)
