@@ -1,4 +1,4 @@
-- [首页](Home)
+- [首页](/Home)
 - 教程
     - [下载与安装](/Install-ExoticGarden)
     - [入门](/Getting-Started)
