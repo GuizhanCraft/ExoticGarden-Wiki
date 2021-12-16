@@ -4,7 +4,7 @@
 
 ExoticGarden 原版: [源代码](https://github.com/TheBusyBiscuit/ExoticGarden) | [下载](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/ExoticGarden/master/)
 
-ExoticGarden 汉化版: [源代码](https://github.com/GuizhanCraft/ExoticGarden-CN) | [下载](https://builds.guizhanss.net/ybw0014/ExoticGarden-CN/master)
+异域花园 汉化版: [源代码](https://github.com/GuizhanCraft/ExoticGarden-CN) | [下载](https://builds.guizhanss.net/ybw0014/ExoticGarden-CN/master)
 
 # 安装 :id=install
 
