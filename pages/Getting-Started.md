@@ -32,7 +32,7 @@
 
 ## 5. 魔法植物 :id=5-magical-crops
 
-你还可以制作各种[魔法植物](/Magical-Plants)，它们会产出[魔法精华](/Magical-Essence)。当你收获足够的魔法精华时，你就可以合成出各种资源。
+你还可以制作各种[魔法植物](/Magical-Plants)，它们会产出[魔法精华](/Magical-Plants#usage)。当你收获足够的魔法精华时，你就可以合成出各种资源。
 
 ## 6. 玩得开心 :id=6-enjoy-the-plugin
 
