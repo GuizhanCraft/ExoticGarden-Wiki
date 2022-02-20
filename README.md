@@ -1,5 +1,7 @@
-# ExoticGarden Wiki
+# ExoticGarden 异域花园 非官方中文 Wiki
 
-这里是ExoticGarden的非官方中文Wiki，由ybw0014维护。
+Cloudflare Pages 部署地址 (国外访问速度较快):  
+https://exoticgarden.guizhanss.wiki/
 
-本Wiki地址: [https://exoticgarden.guizhanss.wiki/](https://exoticgarden.guizhanss.wiki/)
+Webify 部署地址 (国内访问速度较快):  
+https://exoticgarden-wiki.guizhanss.cn/
