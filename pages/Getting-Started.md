@@ -10,7 +10,7 @@
 
 ## 2. 厨房 :id=2-kitchen
 
-要制作异域花园中的大部分食物，你需要建造一个[厨房](/Kitchen)。厨房是一个多方块结构。
+要制作异域花园中的大部分食物，你需要建造一个[厨房](./Kitchen)。厨房是一个多方块结构。
 将厨房摆放好后，你就可以制作食物了。
 
 ## 3. 灌木丛、植物与果树 :id=3-bushes-plants-and-trees
@@ -32,7 +32,7 @@
 
 ## 5. 魔法植物 :id=5-magical-crops
 
-你还可以制作各种[魔法植物](/Magical-Plants)，它们会产出[魔法精华](/Magical-Plants#usage)。当你收获足够的魔法精华时，你就可以合成出各种资源。
+你还可以制作各种[魔法植物](./Magical-Plants)，它们会产出[魔法精华](./Magical-Plants#usage)。当你收获足够的魔法精华时，你就可以合成出各种资源。
 
 ## 6. 玩得开心 :id=6-enjoy-the-plugin
 

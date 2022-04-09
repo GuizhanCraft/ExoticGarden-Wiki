@@ -1,10 +1,10 @@
-- [首页](/Home)
+- [首页](./Home)
 - 教程
-    - [下载与安装](/Install-ExoticGarden)
-    - [入门](/Getting-Started)
+    - [下载与安装](./Install-ExoticGarden)
+    - [入门](./Getting-Started)
 - 分类
-    - [植物与水果](/Plants-and-Fruits)
-    - [配料与工具](/Misc)
-    - [食物](/Food)
-    - [饮料](/Drinks)
-    - [魔法植物](/Magical-Plants)
+    - [植物与水果](./Plants-and-Fruits)
+    - [配料与工具](./Misc)
+    - [食物](./Food)
+    - [饮料](./Drinks)
+    - [魔法植物](./Magical-Plants)
